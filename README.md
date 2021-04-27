@@ -3,7 +3,9 @@ JMeter Playground
 
 - https://www.udemy.com/course/testes-de-performance-com-jmeter-basico-ao-avancado/
 
-- http://automationpractice.com/
+- http://automationpractice.com/ (WEB)
+- https://jsonplaceholder.typicode.com/ (REST)
+- http://www.dneonline.com/calculator.asmx (SOAP)
 
 Sintaxe:
 
